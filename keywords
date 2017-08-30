@@ -1,21 +1,28 @@
-{
+{"variations": {
+"variants": [
+
+{"name": "Nas Tee",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/t-shirts/993e00bf6b0a4c1ba4f8133b00fc8132_sqr.jpg",
+"keyword": "Nas",
+"colors": "white, black, heather grey, navy, red, pale blue, brown, lime",
+"category": "t-shirts",
+"price": "$44",
+
+},
+
+{"name": "DNA Tee",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/t-shirts/9eb63f2a2e8148eab7fbbee1ecaf17a6_sqr.jpg",
+"keyword": "Dna",
+"colors": "white, black, navy, red, royal blue, brown, bright orange, lime",
+"category": "t-shirts",
+"price": "$34",
+
+}
+
+]
+
+},
   "product": "Keywords Week 1",
   "version": 1,
-  "releaseDate": "20/08/2017 14:24",
-  "1": {
-  	"name": "Nas Tee",
-    "picture": "https://www.supremecommunity.com/u/season/fall-winter2017/t-shirts/993e00bf6b0a4c1ba4f8133b00fc8132_sqr.jpg",
-    "keyword": "Nas",
-	"colors": "white, black, heather grey, navy, red, pale blue, brown, lime",
-    "category": "t-shirts",
-	"price": "$44"
-  },
-    "2": {
-	"name": "DNA Tee",
-    "picture": "https://www.supremecommunity.com/u/season/fall-winter2017/t-shirts/9eb63f2a2e8148eab7fbbee1ecaf17a6_sqr.jpg",
-    "keyword": "Dna",
-	"colors": "white, black, navy, red, royal blue, brown, bright orange, lime",
-    "category": "t-shirts",
-	"price": "$34"
-  }
+  "releaseDate": "20/08/2017 14:24"
 }
