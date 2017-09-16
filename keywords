@@ -1,28 +1,64 @@
 {"variations": {
 "variants": [
 
-{"name": "Nas Tee",
-"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/t-shirts/993e00bf6b0a4c1ba4f8133b00fc8132_sqr.jpg",
-"keyword": "Nas",
-"colors": "white, black, heather grey, navy, red, pale blue, brown, lime",
-"category": "t-shirts",
-"price": "$44",
+{"name": "Inflatable Blimp",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/accessories/0b9db43b6f0c4b70b17f043cbaac4328_sqr.jpg",
+"keyword": "blimp",
+"colors": "white",
+"category": "accessories",
+"price": "$20 || £18 || €20",
 
 },
 
-{"name": "DNA Tee",
-"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/t-shirts/9eb63f2a2e8148eab7fbbee1ecaf17a6_sqr.jpg",
-"keyword": "Dna",
-"colors": "white, black, navy, red, royal blue, brown, bright orange, lime",
-"category": "t-shirts",
-"price": "$34",
+{"name": "Piping Track Jacket",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/jackets/009c59325be24a81a9f32966f46020f3_sqr.jpg",
+"keyword": "piping track",
+"colors": "black, red, white, teal",
+"category": "jackets",
+"price": "$158 || £138 || €158",
+
+},
+
+{"name": "Supreme/Nike SB Air Force 2",
+"picture": "https://www.supremecommunity.com/u/season/add/20170905/f8290a2bf511471c8ecdec0883b32c74_sqr.jpg",
+"keyword": "air force",
+"colors": "brown, yellow, orange, teal",
+"category": "shoes",
+"price": "$98 || £84 || €98",
+
+},
+
+{"name": "Reflective Loose Gauge Beanie",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/hats/139771a906934ad3ab5a015ac1637a26_sqr.jpg",
+"keyword": "reflective loose",
+"colors": "navy, orange, red, white, brown, black, pink",
+"category": "hats",
+"price": "$38 || £10 || €38",
+
+},
+
+{"name": "2-Tone Half Zip Sweatshirt",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/sweatshirts/8994e931161c42eca485b215a6035454_sqr.jpg",
+"keyword": "half zip",
+"colors": "red, rust, black, orange, navy",
+"category": "sweatshirts",
+"price": "$158 || £148 || €168",
+
+},
+
+{"name": "Washed Nylon Camp Cap",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/hats/f1d2533622024fb0a29e62145bf4b8c6_sqr.jpg",
+"keyword": "nylon camp",
+"colors": "orange, navy, red, olive, black",
+"category": "hats",
+"price": "$48 || £44 || €50",
 
 }
 
 ]
 
 },
-  "product": "Keywords Week 1",
+  "product": "Keywords Week 3",
   "version": 1,
-  "releaseDate": "20/08/2017 14:24"
+  "releaseDate": "16/09/2017 11:58"
 }
