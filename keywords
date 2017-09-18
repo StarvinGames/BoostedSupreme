@@ -6,7 +6,7 @@
 "keyword": "blimp",
 "colors": "white",
 "category": "accessories",
-"price": "$20 || £18 || €20",
+"price": "$20",
 
 },
 
@@ -15,7 +15,7 @@
 "keyword": "piping track",
 "colors": "black, red, white, teal",
 "category": "jackets",
-"price": "$158 || £138 || €158",
+"price": "$158",
 
 },
 
@@ -24,7 +24,7 @@
 "keyword": "air force",
 "colors": "brown, yellow, orange, teal",
 "category": "shoes",
-"price": "$98 || £84 || €98",
+"price": "$98",
 
 },
 
@@ -33,7 +33,7 @@
 "keyword": "reflective loose",
 "colors": "navy, orange, red, white, brown, black, pink",
 "category": "hats",
-"price": "$38 || £10 || €38",
+"price": "$38",
 
 },
 
@@ -42,7 +42,7 @@
 "keyword": "half zip",
 "colors": "red, rust, black, orange, navy",
 "category": "sweatshirts",
-"price": "$158 || £148 || €168",
+"price": "$158",
 
 },
 
@@ -51,14 +51,32 @@
 "keyword": "nylon camp",
 "colors": "orange, navy, red, olive, black",
 "category": "hats",
-"price": "$48 || £44 || €50",
+"price": "$48",
 
-}
+},
+
+{"name": "Hooded Hockey Jersey",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/tops-sweaters/4faef015d8e7414485b5df8f190b783f_sqr.jpg",
+"keyword": "hockey jersey",
+"colors": "white, black, royal, burgundy",
+"category": "tops/sweaters",
+"price": "$148",
+
+},
+
+{"name": "Embossed Keychain",
+"picture": "https://www.supremecommunity.com/u/season/fall-winter2017/accessories/cb790858160e436e825901708257aa76_sqr.jpg",
+"keyword": "embossed keychain",
+"colors": "green, red",
+"category": accessories",
+"price": "$12",
+
+},
 
 ]
 
 },
   "product": "Keywords Week 3",
-  "version": 1,
+  "version": 2,
   "releaseDate": "16/09/2017 11:58"
 }
