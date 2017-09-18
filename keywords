@@ -71,8 +71,16 @@
 "category": "accessories",
 "price": "$12",
 
-}
+},
 
+{"name": "Brush Logo Hooded Sweatshirt",
+"picture": "https://www.supremecommunity.com/u/season/add/20170906/3ab44c83b911409b9e83143c834f9e5a_sqr.jpg",
+"keyword": "brush logo",
+"colors": "white, turquoise, black, navy, burgundy, yellow, olive",
+"category": "sweatshirts",
+"price": "$158",
+
+}
 ]
 
 },
