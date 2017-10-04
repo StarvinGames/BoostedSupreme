@@ -6,5 +6,3 @@ If you experience any crashes please contact me and describe how it happened.
 
 Known bugs:
 - Log not scrolling to bottom.
-- Manual captcha solver not working at the moment. (Anti-captcha has been confirmed
-working and 2Captcha is untested
